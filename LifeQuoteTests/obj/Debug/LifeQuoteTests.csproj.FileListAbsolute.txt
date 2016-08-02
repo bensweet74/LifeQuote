@@ -1,0 +1,8 @@
+C:\temp\LifeQuote\LifeQuoteTests\obj\Debug\LifeQuoteTests.csprojResolveAssemblyReference.cache
+C:\temp\LifeQuote\LifeQuoteTests\bin\Debug\LifeQuoteTests.dll
+C:\temp\LifeQuote\LifeQuoteTests\bin\Debug\LifeQuoteTests.pdb
+C:\temp\LifeQuote\LifeQuoteTests\bin\Debug\LifeQuote.exe
+C:\temp\LifeQuote\LifeQuoteTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\LifeQuote\LifeQuoteTests\bin\Debug\LifeQuote.pdb
+C:\temp\LifeQuote\LifeQuoteTests\obj\Debug\LifeQuoteTests.dll
+C:\temp\LifeQuote\LifeQuoteTests\obj\Debug\LifeQuoteTests.pdb

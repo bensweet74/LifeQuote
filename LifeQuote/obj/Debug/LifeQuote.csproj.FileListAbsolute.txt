@@ -1,0 +1,9 @@
+C:\temp\LifeQuote\LifeQuote\bin\Debug\LifeQuote.exe.config
+C:\temp\LifeQuote\LifeQuote\obj\Debug\LifeQuote.csprojResolveAssemblyReference.cache
+C:\temp\LifeQuote\LifeQuote\bin\Debug\LifeQuote.exe
+C:\temp\LifeQuote\LifeQuote\bin\Debug\LifeQuote.pdb
+C:\temp\LifeQuote\LifeQuote\obj\Debug\LifeQuote.exe
+C:\temp\LifeQuote\LifeQuote\obj\Debug\LifeQuote.pdb
+C:\Users\bsweet\Source\Repos\homework\LifeQuote\LifeQuote\bin\Debug\LifeQuote.exe.config
+C:\Users\bsweet\Source\Repos\homework\LifeQuote\LifeQuote\obj\Debug\LifeQuote.exe
+C:\Users\bsweet\Source\Repos\homework\LifeQuote\LifeQuote\obj\Debug\LifeQuote.pdb
